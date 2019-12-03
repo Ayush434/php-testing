@@ -1,13 +1,15 @@
-Updated 6/2/2015
+Updated 12/3/2019
 
-Bill Newman for ITC260
+Bill Newman
 
-The zip file contains PHP unit test examples and in a sub-folder named simpletest, the 
+The repo contains PHP unit test examples and in a sub-folder named simpletest, the 
 software SimpleTest (http://www.simpletest.org/).
 
 Installation:
 
 Upload all into a sub-folder on your PHP server space.
+
+Install SimpleTest in the folder named simpletest.
 
 Try out the test files in the root folder in approximately this order:
 
